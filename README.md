@@ -1,3 +1,4 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=KewnsR)
 ## Hi there 👋  I'm Ken!
 4th Year College Student
 
