@@ -32,3 +32,22 @@
 </p>
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/KewnsR?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/github/repos/KewnsR?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/KewnsR?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <!-- Open Issues -->
+  <img src="https://img.shields.io/github/issues/KewnsR?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <!-- Contributions (Commits/PRs) -->
+  <img src="https://img.shields.io/github/contributions/KewnsR?style=for-the-badge&logo=github&logoColor=white" />
+</p>
