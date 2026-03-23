@@ -8,6 +8,13 @@
 - 😄 Pronouns: he/him
 
 
+## 🧰 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
 
 ## GitHub Activity
 
