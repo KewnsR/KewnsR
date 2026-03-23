@@ -32,12 +32,3 @@
 </p>
 
 ---
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
