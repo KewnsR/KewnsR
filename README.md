@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,postgres,php,react,vite" height="50" />
@@ -28,16 +28,16 @@
 ## Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=KewnsR&theme=radical&hide_border=true" height="120"/>
+  <img src="https://img.shields.io/badge/Followers-50-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-10-yellow?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-15-red?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-25-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues-5-orange?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KewnsR&theme=radical&no-frame=true&row=1" height="100"/>
-</p>
 
 ---
 
