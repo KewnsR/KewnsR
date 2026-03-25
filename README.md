@@ -1,11 +1,12 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=KewnsR)
-## Hi there 👋  I'm Ken!
-4th Year Intern College Student
+## Hi there 👋  I'm Ken!!!
+4th Year Intern College Student 
 
 
 - 🌱 I’m currently improving my coding skills and knowledge daily
-- 📫 Learning Web Development, Python, and Software Development 
+- 📫 Learning Web Development, Python, and Software Development  
 - 😄 Pronouns: he/him
+
 
 
 ## Tech Stack
