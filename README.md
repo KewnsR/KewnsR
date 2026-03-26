@@ -6,7 +6,7 @@
 - 🌱 I’m currently improving my coding skills and knowledge daily
 - 📫 Learning Web Development, Python, and Software Development  
 - 😄 Pronouns: he/him
-
+- Learning Odoo 
 
 
 ## Tech Stack
