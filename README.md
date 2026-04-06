@@ -1,13 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=220&section=header&text=Ken%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<!-- PROFILE VIEWS -->
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KewnsR&label=Profile%20Views&color=ff0080&style=for-the-badge" />
 </p>
 
-<!-- TYPING INTRO ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=750&lines=Hi+there+👋+I'm+Ken!;4th+Year+College+Intern;Odoo+Developer+in+Progress;Python+%7C+Web+Developer;Learning+Everyday+🚀" />
 </p>
@@ -57,15 +51,8 @@
 
 ---
 
-## GitHub Achievements
+<!--## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KewnsR&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2afadf,50:7928ca,100:ff0080&height=120&section=footer"/>
 </p>
