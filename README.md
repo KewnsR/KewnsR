@@ -1,6 +1,5 @@
-<!-- ================= HEADER ANIMATION ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:2afadf&height=220&section=header&text=Ken%20Ramos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=220&section=header&text=Ken%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -25,32 +24,32 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,postgres,php,react,vite&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,postgres,php,tailwindcss,react,vite&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff0080&icon_color=2afadf"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0080"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=KewnsR&theme=radical&hide_border=true&ring=ff0080&fire=ff0080&currStreakLabel=2afadf"/>
+  <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg" />
@@ -58,7 +57,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KewnsR&theme=radical&no-frame=true&row=1&column=6"/>
