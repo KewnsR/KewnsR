@@ -22,7 +22,7 @@
 
 ---
 
-## GitHub Analytics
+<!--## GitHub Analytics
 
 <p align="center">
   <img height="170"
@@ -30,7 +30,7 @@
        
   <img height="170"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KewnsR&layout=compact&hide_border=true&theme=transparent" />
-</p>
+</p>-->
 
 ---
 
