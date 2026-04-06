@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=KewnsR&label=Profile%20Views&color=ff0080&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=750&lines=Hi+there+👋+I'm+Ken!;4th+Year+College+Intern;Odoo+Developer+in+Progress;Python+%7C+Web+Developer;Learning+Everyday+🚀" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
