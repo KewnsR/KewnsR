@@ -29,8 +29,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -40,10 +40,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true"/>
 </p>
-
+<!--
 ---
 
-## Contribution Snake (Animated)
+<!--## Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg" />
