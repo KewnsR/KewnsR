@@ -9,7 +9,7 @@
 - 🎓 4th Year Intern College Student  
 - 🌱 Improving coding skills daily  
 - 📚 Learning **Web Development, Python & Software Development**  
-- 🔧 Currently learning **Odoo Development**  
+- 🔧 Currently Application Developer Intern and learning **Odoo Development**  
 - 😄 Pronouns: he/him  
 
 ---
