@@ -37,7 +37,7 @@
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true&currStreakNum=8A2BE2&sideNums=8A2BE2&ring=8A2BE2&fire=8A2BE2"/>
 </p>
 <!--
 ---
