@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 4th Year Intern College Student  
-- 🌱 Improving coding skills daily  
-- 📚 Learning **Web Development, Python & Software Development**  
-- 🔧 Currently Application Developer Intern and learning **Odoo Development**  
-- 😄 Pronouns: he/him  
+- 🎓 4th Year College Student (Intern)
+- 🌱 Continuously improving my coding skills
+- 📚 Currently learning Web Development, Python, and Software Development
+- 🔧 Application Developer Intern focused on Odoo Development
+- 😄 Pronouns: He/Him 
 
 ---
 
