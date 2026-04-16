@@ -46,13 +46,26 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true&currStreakNum=8A2BE2&sideNums=8A2BE2&ring=8A2BE2&fire=8A2BE2"/>
 </p>
-<!--
+
 ---
 
-<!--## Contribution Snake (Animated)
+## Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
