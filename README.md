@@ -24,16 +24,13 @@
 
 ## GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=transparent" />
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=transparent" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170" style="display:inline-block;" 
+       src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=transparent" />
+
+  <img height="170" style="display:inline-block;" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=transparent" />
+</p>
 
 ---
 
