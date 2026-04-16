@@ -22,15 +22,12 @@
 
 ---
 
-<!--## GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KewnsR&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-       
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KewnsR&layout=compact&hide_border=true&theme=transparent" />
-</p>-->
+       src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
