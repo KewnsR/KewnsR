@@ -38,10 +38,6 @@ HI
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=C9D1D9" />
-
-<br><br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KewnsR&theme=tokyonight" />
 
 </div>
@@ -51,7 +47,7 @@ HI
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true&currStreakNum=8A2BE2&sideNums=8A2BE2&ring=8A2BE2&fire=8A2BE2"/>
+  <img src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=C9D1D9" />
 </p>
 
 ---
