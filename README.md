@@ -27,18 +27,8 @@ HI
 ## GitHub Analytics
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
 </div>
 
 ---
