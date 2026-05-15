@@ -32,8 +32,6 @@ HI
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
