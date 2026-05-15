@@ -28,9 +28,11 @@ HI
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KewnsR&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -41,8 +43,6 @@ HI
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KewnsR&theme=dark&hide_border=true&currStreakNum=8A2BE2&sideNums=8A2BE2&ring=8A2BE2&fire=8A2BE2"/>
 </p>
-
----
 
 ---
 
