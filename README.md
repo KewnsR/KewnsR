@@ -22,17 +22,11 @@
 
 ---
 
+## GitHub Analytics Dashboard
+
 <div align="center">
 
-# GitHub Analytics Dashboard
-
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KewnsR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true&count_private=true" />
-
-<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-
-<br><br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KewnsR&custom_title=Contribution%20Analytics&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A855F7&area=true&hide_border=true" />
 
 <br><br>
 
