@@ -26,11 +26,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KewnsR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KewnsR&theme=tokyonight" />
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
