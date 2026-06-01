@@ -40,16 +40,6 @@
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KewnsR&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
 ## Contribution Snake (Animated)
 
 <p align="center">
