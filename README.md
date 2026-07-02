@@ -9,10 +9,10 @@ HI
 
 ## 👨‍💻 About Me
 
-- 🎓 4th Year College Student (Intern)
+- 🎓 Computer Science Graduate
 - 🌱 Continuously improving my coding skills
-- 📚 Currently learning Web Development, Python, and Software Development
-- 🔧 Application Developer Intern focused on Odoo Development
+- 📚 Currently Upskilling
+- 🔧 Want to become a Web or Software Dev or Engineer
 - 😄 Pronouns: He/Him 
 
 ---
