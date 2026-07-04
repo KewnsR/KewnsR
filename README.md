@@ -2,9 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=KewnsR&label=Profile%20Views&color=ff0080&style=for-the-badge" />
 </p>
 
-
-HI 
-
 ---
 
 ## 👨‍💻 About Me
