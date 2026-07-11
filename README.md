@@ -99,9 +99,8 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
   <a href="mailto:ramoslloydkenneth1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-</p>
 
-  <a href="https://YOUR-PORTFOLIO.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+  <a href="https://YOUR-PORTFOLIO.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
 </p>
