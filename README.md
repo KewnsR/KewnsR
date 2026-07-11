@@ -20,7 +20,6 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 - 🌱 Currently learning Docker, Backend Development, and Cloud Technologies
 - 🚀 Looking for opportunities as a Software Developer
 - 🔍 Interested in Full-Stack Development, Automation, and AI
-- ⚡ I enjoy solving real-world problems through code.
 
 ---
 
