@@ -4,10 +4,6 @@
 Computer Science Graduate • Aspiring Software Engineer • Web Developer
 </h3>
 
-<p align="center">
-Passionate about building modern web applications, learning new technologies,
-and continuously improving as a developer.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KewnsR&label=Profile%20Views&color=ff0080&style=for-the-badge" />
