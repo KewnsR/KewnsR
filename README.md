@@ -51,13 +51,13 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center"> <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KewnsR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" /> </div>
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true" />
@@ -65,7 +65,7 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KewnsR&theme=tokyo-night&hide_border=true&area=true" />
