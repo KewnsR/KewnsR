@@ -92,13 +92,14 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/lloyd-kenneth-ramos-047a30379/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/lloyd-kenneth-ramos-047a30379/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
   <a href="mailto:ramoslloydkenneth1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+</p>
 
   <a href="https://YOUR-PORTFOLIO.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" />
