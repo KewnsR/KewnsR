@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
 
 <h3 align="center">
-Computer Science Graduate • Aspiring Software Engineer • Web Developer
+Computer Science Graduate • Aspiring Software Engineer • Software Developer
 </h3>
 
 
