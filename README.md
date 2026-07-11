@@ -92,7 +92,7 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/lloyd-kenneth-ramos-047a30379/">
+  <a href="www.linkedin.com/in/lloyd-kenneth-ramos-047a30379/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
