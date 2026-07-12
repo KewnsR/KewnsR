@@ -13,7 +13,7 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Computer Science Graduate
 - 💻 Passionate about Web Development and Software Engineering
@@ -73,7 +73,7 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KewnsR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
