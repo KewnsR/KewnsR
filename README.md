@@ -60,7 +60,10 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=KewnsR&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -70,14 +73,6 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KewnsR&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-## GitHub Trophies
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KewnsR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-</p> -->
 
 ---
 
