@@ -34,13 +34,13 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,php"/>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,php,flask"/>
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase"/>
 </p>
 
 ### 🧰 Tools & Technologies
