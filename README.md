@@ -61,7 +61,7 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=KewnsR&theme=tokyonight&hide_border=true&v=1"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KewnsR&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
