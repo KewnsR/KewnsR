@@ -81,21 +81,3 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 <p align="center">
   <img src="https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lloyd-kenneth-ramos-047a30379/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:ramoslloydkenneth1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-
-  <a href="https://YOUR-PORTFOLIO.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-  </a>
-</p>
