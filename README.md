@@ -7,7 +7,7 @@ Computer Science Graduate • Aspiring Software Engineer • Software Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KewnsR&label=Profile%20Views&color=ff0080&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/KewnsR?style=for-the-badge&logo=github&color=8B5CF6&label=Followers" />
+  <!-- <img src="https://img.shields.io/github/followers/KewnsR?style=for-the-badge&logo=github&color=8B5CF6&label=Followers" /> -->
   <!-- <img src="https://img.shields.io/github/stars/KewnsR?style=for-the-badge&logo=github&color=F59E0B&label=Stars" /> -->
 </p>
 
